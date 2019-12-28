@@ -13,7 +13,7 @@ Platform to fire-up your tech instinct and more.
 3. Additionally, possibly allow startups to colloborate[ on needs ].
 4. Allow user to create their own content and share.
 ```
-This is work in progres and idea will shape over time. 
+This is a <i>work-in-progress</i> and idea will shape over time. 
 
 ```
 Release cycle is following:
