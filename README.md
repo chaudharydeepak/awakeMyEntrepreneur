@@ -1,5 +1,5 @@
 # awakeMyEntrepreneur
-Application to fire-up your tech instinct and more.
+Platform to fire-up your tech instinct and more.
 
 #### Motivation [<i>or frustration</i>]
 
