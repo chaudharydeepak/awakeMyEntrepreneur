@@ -10,7 +10,7 @@ Platform to fire-up your tech instinct and more.
 ```
 1. High quality tech content from internet per user(s) interest.
 2. Allow startup inspirations - just not the shiny highs, but daily grinds/ and the following rises.
-3. Additionalyy, possibly allow startups to colloborate[ needs ].
+3. Additionally, possibly allow startups to colloborate[ on needs ].
 4. Allow user to create their own content and share.
 ```
 This is work in progres and idea will shape over time. 
